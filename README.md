@@ -1,7 +1,7 @@
 [![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lightyfr&theme=high-contrast)](https://github.com/lightyfr/github-readme-activity-graph)
 # 👋 Hey there! I'm Adhitya
 
-### 🚀 Aspiring Computer Scientist | Neuroscience Enthusiast | High School Innovator
+### 🚀 Aspiring Computer Scientist | Full Stack Developer | Neuroscience Enthusiast | High School Innovator 
 
 I'm currently a high school student at Lightridge High School, working hard toward my dream of studying Computer Science at Georgia Tech. With my diverse experiences in coding, research, leadership, and nonprofit work, I’m passionate about building impactful projects and learning new technologies that make a difference.
 
