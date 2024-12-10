@@ -12,7 +12,7 @@ I'm currently a high school student at Lightridge High School, working hard towa
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/rust.png" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_sass_icon_161283.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Python" width="40" height="40"/>
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html.png" alt="Python" width="40" height="40"/>
  </div>
