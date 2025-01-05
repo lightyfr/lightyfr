@@ -37,13 +37,44 @@ I'm currently a high school student at Lightridge High School, working hard towa
 
 ---
 
-## 🧠 Current Projects & Passions
-
-- **🌐 Pyupil Web App**: Aiming to bridge gaps in student support, Pyupil is a web app that will provide students with educational resources and personalized assistance.
-- **🔬 Water Filtration Research**: Currently working on a bottle-sized, solar-powered water filtration system aimed at distribution in third-world countries.
-- **📊 AI and Machine Learning**: Learning and experimenting with TensorRT, TensorFlow, and PyTorch to build my knowledge in deep learning, especially for upscaling projects.
+Here’s an updated version of your GitHub section based on your resume:
 
 ---
+
+## 💻 GitHub Activity
+
+[![Adhitya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lightyfr&theme=high-contrast)](https://github.com/lightyfr/github-readme-activity-graph)
+
+---
+
+## 🚀 Projects & Contributions
+
+- **Pyupil Web Application**  
+  Building a productivity app for students, featuring tools like academic planning and Pyupil AI, aimed at enhancing student productivity. Technologies used: TypeScript, JavaScript, Next.js, Vercel, SCSS.
+  
+- **Yaaro Mobile App**  
+  Developed a social app for connecting people in Mumbai for spontaneous hangouts, boosting community engagement. Technologies used: React Native, Expo Router, CSS, Supabase.
+
+- **NXT Step Nonprofit**  
+  Leading a nonprofit focused on healthcare access, including a project to design and distribute fume hoods for third-world countries. Experience with 3D design tools like Onshape and Autodesk.
+
+- **Occasio Startup**  
+  Web development for a high school networking platform that connects students based on interests. Full-stack development using Next.js, Postgres, Prisma ORM, MongoDB.
+
+- **Bitcoin Price Predictor**  
+  Built an LSTM-based Bitcoin price predictor with a 91.67% accuracy rate, using TensorFlow and Python. Fetches real-time data to provide predictions.
+
+- **Destemy Social Media Agency**  
+  Managed social media growth strategies, resulting in over 300 million views and 1.6 million followers across multiple creators. Focused on content production, video editing, and social media strategy.
+
+- **Freelance Video Editor**  
+  Edited and collaborated with content creators with followings ranging from 100 to over 1 million on platforms like TikTok.
+
+Feel free to check out my repositories and contribute to some of my ongoing projects!
+
+---
+
+This should provide a better reflection of your work and experience for your GitHub profile. Let me know if you'd like further adjustments!
 
 ## 📜 Skills and Certifications
 
