@@ -37,16 +37,6 @@ I'm currently a high school student at Lightridge High School, working hard towa
 
 ---
 
-Here’s an updated version of your GitHub section based on your resume:
-
----
-
-## 💻 GitHub Activity
-
-[![Adhitya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lightyfr&theme=high-contrast)](https://github.com/lightyfr/github-readme-activity-graph)
-
----
-
 ## 🚀 Projects & Contributions
 
 - **Pyupil Web Application**  
@@ -73,8 +63,6 @@ Here’s an updated version of your GitHub section based on your resume:
 Feel free to check out my repositories and contribute to some of my ongoing projects!
 
 ---
-
-This should provide a better reflection of your work and experience for your GitHub profile. Let me know if you'd like further adjustments!
 
 ## 📜 Skills and Certifications
 
