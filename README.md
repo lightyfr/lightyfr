@@ -57,7 +57,7 @@ I'm currently a high school student at Lightridge High School, working hard towa
 - **Destemy Social Media Agency**  
   Managed social media growth strategies, resulting in over 300 million views and 1.6 million followers across multiple creators. Focused on content production, video editing, and social media strategy.
 
-- **OnceUI Contributor**  
+- **Once UI Contributor**  
   Contributed components for [Once UI](https://once-ui.com/)
   
 - **Freelance Video Editor**  
