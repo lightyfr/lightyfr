@@ -39,6 +39,9 @@ I'm currently a high school student at Lightridge High School, working hard towa
 
 ## 🚀 Projects & Contributions
 
+- **Dusk IDE**  
+  Founder and CEO at Dusk, building a agenic AI IDE with innovative feauters, built of VS Code. Technologies used: Electron, Node.JS, Python, Gulp
+  
 - **Pyupil Web Application**  
   Building a productivity app for students, featuring tools like academic planning and Pyupil AI, aimed at enhancing student productivity. Technologies used: TypeScript, JavaScript, Next.js, Vercel, SCSS.
   
@@ -48,15 +51,15 @@ I'm currently a high school student at Lightridge High School, working hard towa
 - **NXT Step Nonprofit**  
   Leading a nonprofit focused on healthcare access, including a project to design and distribute fume hoods for third-world countries. Experience with 3D design tools like Onshape and Autodesk.
 
-- **Occasio Startup**  
-  Web development for a high school networking platform that connects students based on interests. Full-stack development using Next.js, Postgres, Prisma ORM, MongoDB.
-
 - **Bitcoin Price Predictor**  
   Built an LSTM-based Bitcoin price predictor with a 91.67% accuracy rate, using TensorFlow and Python. Fetches real-time data to provide predictions.
 
 - **Destemy Social Media Agency**  
   Managed social media growth strategies, resulting in over 300 million views and 1.6 million followers across multiple creators. Focused on content production, video editing, and social media strategy.
 
+- **OnceUI Contributor**  
+  Contributed components for [Once UI](https://once-ui.com/)
+  
 - **Freelance Video Editor**  
   Edited and collaborated with content creators with followings ranging from 100 to over 1 million on platforms like TikTok.
 
