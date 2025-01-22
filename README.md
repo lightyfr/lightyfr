@@ -7,10 +7,19 @@ I'm currently a high school student at Lightridge High School, working hard towa
 
 ---
 ## Languages, Technologies And Skills
-[![My Skills](https://skillicons.dev/icons?i=next,vite,react,electron,nodejs,gulp,git,pytorch,prisma,supabase,mongodb,ts,js,python,java,html,css,scss,figma,ae,photoshop,illustrator,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,vite,react,electron,nodejs,gulp,git,pytorch,prisma)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=supabase,mongodb,firebase)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,java,html,css,scss)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=figma,ae,photoshop,illustrator,vscode,idea)](https://skillicons.dev)
+
+
+
  
 - Technologies: Next.js, Vite, React / React Native, Electron, Node.JS, Gulp, Pytorch, Git, Prisma
-- Database: Supabase, MongoDB
+- Database: Supabase, MongoDB, Firebase
 - Languages: Typescript, Javascript, Python, HTML, CSS, SCSS
 - Apps: Figma, After Effects, Photoshop, Illustrator, VS Code, JetBrains IDEA
 
