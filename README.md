@@ -6,24 +6,13 @@
 I'm currently a high school student at Lightridge High School, working hard toward my dream of studying Computer Science at Georgia Tech. With my diverse experiences in coding, research, leadership, and nonprofit work, I’m passionate about building impactful projects and learning new technologies that make a difference.
 
 ---
-## Languages And Technologies
-<div direction="row gap="4">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/rust.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Python" width="40" height="40"/>
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html.png" alt="Python" width="40" height="40"/>
- </div>
+## Languages, Technologies And Skills
+[![My Skills](https://skillicons.dev/icons?i=next,vite,react,electron,nodejs,gulp,git,pytorch,prisma,supabase,mongodb,ts,js,python,java,html,css,scss,figma,ae,photoshop,illustrator,vscode,idea)](https://skillicons.dev)
  
-- Next.Js
-- Vite
-- Electron
-- Tauri
-- MongoDb
-- Supabase
-- Prisma
+- Technologies: Next.js, Vite, React / React Native, Electron, Node.JS, Gulp, Pytorch, Git, Prisma
+- Database: Supabase, MongoDB
+- Languages: Typescript, Javascript, Python, HTML, CSS, SCSS
+- Apps: Figma, After Effects, Photoshop, Illustrator, VS Code, JetBrains IDEA
 
 ---
 
