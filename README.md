@@ -3,7 +3,7 @@
 
 ### 🚀 Aspiring Computer Scientist | Full Stack Developer | Neuroscience Enthusiast | High School Innovator 
 
-I'm currently a high school student at Lightridge High School, working hard toward my dream of studying Computer Science at Georgia Tech. With my diverse experiences in coding, research, leadership, and nonprofit work, I’m passionate about building impactful projects and learning new technologies that make a difference.
+I'm currently a high school student at Lightridge High School, working hard toward my dream of studying Computer Science at Georgia Tech. With my diverse experiences in coding, research, leadership, and nonprofit work, I’m passionate about building impactful projects and learning new technologies that make a difference. Learning new technologies is addicting to me!
 
 ---
 ## Languages, Technologies And Skills
@@ -62,17 +62,6 @@ I'm currently a high school student at Lightridge High School, working hard towa
   Edited and collaborated with content creators with followings ranging from 100 to over 1 million on platforms like TikTok.
 
 Feel free to check out my repositories and contribute to some of my ongoing projects!
-
----
-
-## 📜 Skills and Certifications
-
-- **Languages & Technologies**: Java, Python, React, Next.js, Sass, Git, Cloud Computing
-- **Certifications**: 
-  - Introduction to Cloud Computing (Codecademy)
-  - Learn Java Course (Codecademy)
-  - AP Computer Science A (Codecademy)
-- **In Progress**: Oracle Java Certification, Certiport Java & Python Certifications
 
 ---
 
