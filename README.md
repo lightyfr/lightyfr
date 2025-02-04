@@ -38,7 +38,7 @@ I'm currently a high school student at Lightridge High School, working hard towa
 ## 🚀 Projects & Contributions
 
 - **Dusk IDE**  
-  Founder and CEO at Dusk, building a agenic AI IDE with innovative feauters, built of VS Code. Technologies used: Electron, Node.JS, Python, Gulp
+  Founder and CEO at Dusk, building a agenic AI IDE with innovative features, built of VS Code. Technologies used: Electron, Node.JS, Python, Gulp
   
 - **Pyupil Web Application**  
   Building a productivity app for students, featuring tools like academic planning and Pyupil AI, aimed at enhancing student productivity. Technologies used: TypeScript, JavaScript, Next.js, Vercel, SCSS.
